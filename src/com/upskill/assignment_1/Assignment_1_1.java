@@ -12,7 +12,8 @@ public class Assignment_1_1 {
 		
 		public static void trianglePerimeter() {
 			int a = 50;
-			int b = 21;
+			int b = 20;
+			int b = 70;
 			int c = 11;
 			int perimeter = a+b+c;
 			System.out.println("The Perimeter of Triangle with arms 5, 7, 11 is " + perimeter);
