@@ -31,7 +31,7 @@ public class Variable {
 		
 		String myCounty = county;
 		
-		String name = "Rushdi";
+		String name = "Naim";
 		int age = 30;
 		
 		System.out.println("Method 2 : " + name);
