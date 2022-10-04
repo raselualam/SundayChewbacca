@@ -12,7 +12,7 @@ public class Variable {
 		
 		String city = "Bloomfield";					//Local variable - variables declared in methods
 		
-		String name = "Alex";
+		String name = "Naim";
 		int age = 32;
 		
 		System.out.println("Method 1 : " + name);
